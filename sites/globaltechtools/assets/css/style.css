@@ -1,0 +1,30 @@
+.fontzero{
+    font-size: 0;
+    float: left;
+}
+
+body{
+    background: #F0F0F0;
+}
+
+.globaltechtools{
+
+}
+
+main h2{
+    color:#306799;
+    text-align: center;
+    font-weight: bold;
+}
+main h3,main p{
+    color:#4FA0CA;
+    text-align: center;
+}
+main .form{
+    width: 100%;
+    min-height: 550px;
+}
+footer{
+    color: #306799;
+
+}
